@@ -15,7 +15,6 @@ Diberikan sebuah file dengan nama chall, kita diminta untuk membuka file tersebu
 - Hasilnya file image dapat dibuka dan flag ditemukan.
 ![preview](images/result.jpeg) 
 
-
 ```
-ForestyCTF{ezzzz123!!!}
+Flag : ForestyCTF{ezzzz123!!!}
 ```
