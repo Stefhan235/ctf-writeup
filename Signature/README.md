@@ -1,5 +1,4 @@
-# Judul 1
-Signature
+# Signature
 
 ## About the Challenge
 Diberikan sebuah file dengan nama chall, kita diminta untuk membuka file tersebut.
