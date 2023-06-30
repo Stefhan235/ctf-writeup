@@ -13,7 +13,7 @@ Diberikan sebuah file dengan nama chall, kita diminta untuk membuka file tersebu
 - Selanjutnya saya membuka hex editor online [url : https://hexed.it/] dan mengubah header hex dari file chall dan di export.
 ![preview](images/editHex.png) 
 - File image dapat dibuka dan flag ditemukan.
-![preview](images/result.png) 
+![preview](images/result.jpeg) 
 
 
 ```
